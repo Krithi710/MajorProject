@@ -1,0 +1,9 @@
+streamlit
+nltk
+pandas
+numpy
+matplotlib
+PyMuPDF
+scikit-learn
+PyPDF2==2.12.1
+PyPDF2
