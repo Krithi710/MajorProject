@@ -1,6 +1,7 @@
 # MajorProject
 
 Intelligent Resume Analysis and Job Fit Assessment System
+
 📌 Overview
 
 This project is an AI-powered Resume Analyzer and Job Fit Assessment System built with Streamlit.
